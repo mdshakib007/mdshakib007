@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🌐 **Connect with Me:**
+### 🌐 **Important Links:**
 - [Personal Portfolio](https://mdshakib007.github.io/)  
 - [LinkedIn](https://linkedin.com/in/mdshakib00777/)  
 - [YouTube - AlgoAspire](https://www.youtube.com/@algoaspire/)  
