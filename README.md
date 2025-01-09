@@ -21,10 +21,10 @@ Welcome to my GitHub profile!
 `C++` | `Python` | `JavaScript` | `Java`
 
 #### 🎨 **Frontend:**
-`HTML` | `CSS` | `React` | `Bootstrap` | `Tailwind`
+`HTML` | `CSS` | `React` | `Bootstrap` | `Tailwind` | `Daisy UI`
 
 #### 🔧 **Backend:**
-`Python` | `Django` | `DRF (Django REST Framework)` | `MySQL` | `SQLite`
+`Python` | `Django` | `DRF (Django REST Framework)` | `MySQL` | `SQLite` | `PostgreSQL`
 
 #### ⚙️ **Tools & Others:**
 `Git` | `GitHub` | `Linux` | `Vercel`
