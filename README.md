@@ -1,24 +1,25 @@
 # Hi, I'm **MD Shakib Ahmed** 👋
 
-Welcome to my GitHub profile!
+🚀 Passionate about **Competitive Programming, Web Development, and Open Source**. I love solving problems, building scalable applications, and sharing knowledge through <a href="https://www.youtube.com/@algoaspire/" target="_blank">**AlgoAspire**</a>, my educational initiative. My vision is to make high-quality programming education accessible to everyone for free. Currently, I'm working on **Developing `AlgoAspire-Web`, 100% Free E-learning platform (Beyond Learning!), backend APIs**.
 
 ---
 
 ### 🌐 **Important Links:**
-- [Personal Portfolio](https://mdshakib007.github.io/)  
-- [LinkedIn](https://linkedin.com/in/mdshakib00777/)  
-- [YouTube - AlgoAspire](https://www.youtube.com/@algoaspire/)  
-- [Discord Community - AlgoAspire](https://discord.gg/PRM5vGcSH9)  
-- [Codeforces Profile](https://codeforces.com/profile/mdshakib007/)  
-- [CodeChef Profile](https://www.codechef.com/users/mdshakib007/)  
-- [LeetCode Profile](https://www.leetcode.com/mdshakib007/)
+- <a href="https://mdshakib007.github.io/" target="_blank">Personal Portfolio</a>
+- <a href="https://aspire-thought.vercel.app/visit_profile.html?author_id=3" target="_blank">Blog Profile</a>  
+- <a href="https://linkedin.com/in/mdshakib00777/" target="_blank">LinkedIn</a>  
+- <a href="https://www.youtube.com/@algoaspire/" target="_blank">YouTube - AlgoAspire</a>  
+- <a href="https://discord.gg/PRM5vGcSH9" target="_blank">Discord Community - AlgoAspire</a>  
+- <a href="https://codeforces.com/profile/mdshakib007/" target="_blank">Codeforces Profile</a>  
+- <a href="https://www.codechef.com/users/mdshakib007/" target="_blank">CodeChef Profile</a>  
+- <a href="https://www.leetcode.com/mdshakib007/" target="_blank">LeetCode Profile</a>  
 
 ---
 
 ### 💻 **Tech Stack**
 
 #### 🖥️ **Programming Languages:**
-`C++` | `Python` | `JavaScript` | `Java`
+`C++` | `Python` | `JavaScript`
 
 #### 🎨 **Frontend:**
 `HTML` | `CSS` | `React` | `Bootstrap` | `Tailwind` | `Daisy UI`
@@ -27,7 +28,7 @@ Welcome to my GitHub profile!
 `Python` | `Django` | `DRF (Django REST Framework)` | `MySQL` | `SQLite` | `PostgreSQL`
 
 #### ⚙️ **Tools & Others:**
-`Git` | `GitHub` | `Linux` | `Vercel`
+`Git` | `GitHub` | `Linux (Ubuntu)` | `Vercel` | `Supabase`
 
 ---
 
