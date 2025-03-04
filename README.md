@@ -1,6 +1,6 @@
 # Hi, I'm **MD Shakib Ahmed** 👋
 
-🚀 Passionate about **Competitive Programming, Web Development, and Open Source**. I love solving problems, building scalable applications, and sharing knowledge through <a href="https://www.youtube.com/@algoaspire/" target="_blank">**AlgoAspire**</a>, my educational initiative. My vision is to make high-quality programming education accessible to everyone for free. Currently, I'm working on **Developing `AlgoAspire-Web`, 100% Free E-learning platform (Beyond Learning!), backend APIs**.
+🚀 Passionate about **Competitive Programming, Backend Development, and Open Source**. I love solving problems, building scalable applications, and sharing knowledge through <a href="https://www.youtube.com/@algoaspire/" target="_blank">**AlgoAspire**</a>, my educational initiative. My vision is to make high-quality programming education accessible to everyone for free. Currently, I'm working on Developing **AlgoAspire-Web, 100% Free E-learning platform (Beyond Learning!), backend APIs**.
 
 ---
 
@@ -19,13 +19,13 @@
 ### 💻 **Tech Stack**
 
 #### 🖥️ **Programming Languages:**
-`C++` | `Python` | `JavaScript`
+`C` | `C++` | `Python` | `JavaScript`
 
 #### 🎨 **Frontend:**
 `HTML` | `CSS` | `React` | `Bootstrap` | `Tailwind` | `Daisy UI`
 
 #### 🔧 **Backend:**
-`Python` | `Django` | `DRF (Django REST Framework)` | `MySQL` | `SQLite` | `PostgreSQL`
+`Python` | `Django` | `DRF (Django REST Framework)` | `MySQL` | `SQLite` | `PostgreSQL` | `JWT Auth`
 
 #### ⚙️ **Tools & Others:**
 `Git` | `GitHub` | `Linux (Ubuntu)` | `Vercel` | `Supabase`
