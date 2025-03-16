@@ -5,7 +5,7 @@
 ---
 
 ### 🌐 **Important Links:**
-- <a href="https://mdshakib007.github.io/" target="_blank">Personal Portfolio</a>
+- <a href="https://mdshakib007.vercel.app/" target="_blank">Personal Portfolio</a>
 - <a href="https://aspire-thought.vercel.app/visit_profile.html?author_id=3" target="_blank">Blog Profile</a>  
 - <a href="https://linkedin.com/in/mdshakib00777/" target="_blank">LinkedIn</a>  
 - <a href="https://www.youtube.com/@algoaspire/" target="_blank">YouTube - AlgoAspire</a>  
@@ -22,13 +22,13 @@
 `C` | `C++` | `Python` | `JavaScript`
 
 #### 🎨 **Frontend:**
-`HTML` | `CSS` | `React` | `Bootstrap` | `Tailwind` | `Daisy UI`
+`HTML` | `CSS` | `React` | `Bootstrap` | `Tailwind` | `Daisy UI` | `Material UI`
 
 #### 🔧 **Backend:**
 `Python` | `Django` | `DRF (Django REST Framework)` | `MySQL` | `SQLite` | `PostgreSQL` | `JWT Auth`
 
 #### ⚙️ **Tools & Others:**
-`Git` | `GitHub` | `Linux (Ubuntu)` | `Vercel` | `Supabase`
+`DSA` | `CP` | `Markdown` | `Git` | `GitHub` | `Linux (Ubuntu)` | `Vercel` | `Supabase`
 
 ---
 
