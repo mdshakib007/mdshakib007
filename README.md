@@ -6,7 +6,7 @@
 
 ### 🌐 **Important Links:**
 - <a href="https://mdshakib007.vercel.app/" target="_blank">Personal Portfolio</a>
-- <a href="https://aspire-thought.vercel.app/visit_profile.html?author_id=3" target="_blank">Blog Profile</a>  
+- <a href="https://mdshakib007.vercel.app/posts" target="_blank">Blog Posts</a>  
 - <a href="https://linkedin.com/in/mdshakib00777/" target="_blank">LinkedIn</a>  
 - <a href="https://www.youtube.com/@algoaspire/" target="_blank">YouTube - AlgoAspire</a>  
 - <a href="https://discord.gg/PRM5vGcSH9" target="_blank">Discord Community - AlgoAspire</a>  
@@ -28,7 +28,7 @@
 `Python` | `Django` | `DRF (Django REST Framework)` | `MySQL` | `SQLite` | `PostgreSQL` | `JWT Auth`
 
 #### ⚙️ **Tools & Others:**
-`DSA` | `CP` | `Markdown` | `Git` | `GitHub` | `Linux (Ubuntu)` | `Vercel` | `Supabase`
+`DSA` | `CP` | `Firebase` | `Markdown` | `Git` | `GitHub` | `Linux (Ubuntu)` | `Vercel` | `Supabase`
 
 ---
 
