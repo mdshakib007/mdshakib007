@@ -22,10 +22,10 @@
 `C` | `C++` | `Python` | `JavaScript`
 
 #### 🎨 **Frontend:**
-`HTML` | `CSS` | `React` | `Bootstrap` | `Tailwind` | `Daisy UI` | `Material UI`
+`HTML` | `CSS` | `React` | `Bootstrap` | `Tailwind` | `Daisy UI` | `Zustand`
 
 #### 🔧 **Backend:**
-`Python` | `Django` | `DRF (Django REST Framework)` | `MySQL` | `SQLite` | `PostgreSQL` | `JWT Auth`
+`Django` | `DRF (Django REST Framework)` | `FastAPI` | `MySQL` | `PostgreSQL` | `Django ORM` | `JWT Auth` | `OAuth`
 
 #### ⚙️ **Tools & Others:**
 `DSA` | `CP` | `Firebase` | `Markdown` | `Git` | `GitHub` | `Linux (Ubuntu)` | `Vercel` | `Supabase`
