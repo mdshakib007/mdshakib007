@@ -1,18 +1,19 @@
 # Hi, I'm **MD Shakib Ahmed** 👋
 
-🚀 Passionate about **Competitive Programming, Backend Development, and Open Source**. I love solving problems, building scalable applications, and sharing knowledge through <a href="https://www.youtube.com/@algoaspire/" target="_blank">**AlgoAspire**</a>, my educational initiative. My vision is to make high-quality programming education accessible to everyone for free. Currently, I'm working on Developing **AlgoAspire-Web, 100% Free E-learning platform (Beyond Learning!), backend APIs**.
+🚀 Passionate about **Competitive Programming, Backend Development, and Open Source**. I love solving problems, building scalable applications, and sharing knowledge through <a href="https://www.youtube.com/@algoaspire/" target="_blank">**AlgoAspire**</a>, my educational initiative. My vision is to make high-quality programming education accessible to everyone for free. Currently, I'm working on Developing **[AlgoAspire-Web](https://algoaspire-academy.vercel.app/), 100% Free E-learning platform (Beyond Learning!)**.
 
 ---
 
 ### 🌐 **Important Links:**
-- <a href="https://mdshakib007.vercel.app/" target="_blank">Personal Portfolio</a>
+- <a href="https://mdshakib007.vercel.app/" target="_blank">Personal Portfolio</a>  
 - <a href="https://mdshakib007.vercel.app/posts" target="_blank">Blog Posts</a>  
 - <a href="https://linkedin.com/in/mdshakib00777/" target="_blank">LinkedIn</a>  
-- <a href="https://www.youtube.com/@algoaspire/" target="_blank">YouTube - AlgoAspire</a>  
-- <a href="https://discord.gg/PRM5vGcSH9" target="_blank">Discord Community - AlgoAspire</a>  
 - <a href="https://codeforces.com/profile/mdshakib007/" target="_blank">Codeforces Profile</a>  
 - <a href="https://www.codechef.com/users/mdshakib007/" target="_blank">CodeChef Profile</a>  
 - <a href="https://www.leetcode.com/mdshakib007/" target="_blank">LeetCode Profile</a>  
+- <a href="https://algoaspire-academy.vercel.app/" target="_blank">AlgoAspire-Academy</a>  
+- <a href="https://www.youtube.com/@algoaspire/" target="_blank">YouTube - AlgoAspire</a>  
+- <a href="https://discord.gg/PRM5vGcSH9" target="_blank">Discord Community - AlgoAspire</a>  
 
 ---
 
